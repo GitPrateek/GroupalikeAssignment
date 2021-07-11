@@ -1,16 +1,5 @@
 # groupalike
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A Flutter project based on the designs shared by Anurag from the Groupalike team.
+The implementation of a number of widgets is partial at the moment, since it is limited based on the availability of data as well as further designs. Certain Widgets can be moved from home.dart to a separate file for better readability, however most widgets have been modularized appropriately within the same file.
+A release of the application has been provided in the repository.
